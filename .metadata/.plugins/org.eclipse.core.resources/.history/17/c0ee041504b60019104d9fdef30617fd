@@ -1,0 +1,26 @@
+import stanford.karel.Karel;
+import stanford.karel.SuperKarel;
+
+
+public class OurKarelProgram extends SuperKarel{
+	public void run(){
+		while(frontIsClear()){
+			move();
+		}
+		for(int i=0;i<3;i++){
+			turnLeft();
+		}
+		move();
+		turnLeft();
+		move();
+		pickBeeper();
+		move();
+		putBeeper();
+		turnRight();
+		move();
+		move();
+		turnAround();
+	}
+	
+	
+}

@@ -1,0 +1,12 @@
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\669833030.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\2701137802.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\2825749616.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\2312526865.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\132620216.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\4263967890.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\3424883574.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\3025924698.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\1891132932.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\3448400377.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\472536905.index
+D:\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\4019986212.index

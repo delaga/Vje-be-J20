@@ -1,0 +1,27 @@
+import stanford.karel.Karel;
+
+
+public class OurKarelProgram extends Karel{
+	public void run(){
+		move();
+		move();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move();
+		turnLeft();
+		move();
+		pickBeeper();
+		move();
+		putBeeper();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move();
+		move();
+	}
+	
+	private void turnRight(){
+		
+	}
+}
