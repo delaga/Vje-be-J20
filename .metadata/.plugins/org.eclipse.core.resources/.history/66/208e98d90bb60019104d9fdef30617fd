@@ -1,0 +1,11 @@
+//import stanford.karel.Karel;
+import stanford.karel.SuperKarel;
+
+public class FillWithBeepers extends SuperKarel{
+	public void run(){
+		while(frontIsClear()){
+			putBeeper();
+			move();
+		}
+	}
+}

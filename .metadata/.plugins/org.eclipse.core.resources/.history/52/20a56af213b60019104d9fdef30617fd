@@ -1,0 +1,6 @@
+import stanford.karel.*;
+public class DoubleBeepers extends SuperKarel{
+	public void run(){
+		
+	}
+}
